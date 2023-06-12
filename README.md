@@ -15,3 +15,20 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+:man_technologist: About Me :
+
+I am a IOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+
+- :telescope: I started learning development in 2022.
+
+- :seedling: I am currently working as a Service Engineer.
+
+- :zap: Sometimes, I make leather goods, it's my hobby..
+
+:hammer_and_wrench: Language :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="150" height="150"/>&nbsp;
+</div>
