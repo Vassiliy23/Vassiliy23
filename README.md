@@ -26,6 +26,5 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :seedling: I am currently working as a Industrial automation engineer.
 
-- :zap: I love going camping in nature.
-:hammer_and_wrench: Language : <div> <img src="https://githubusercontent.com" title="Java" alt="Java" width="150" height="150"/>&nbsp; </div>
+:hammer_and_wrench: Language : <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="150" height="150"/>&nbsp; </div>
 
