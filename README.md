@@ -20,15 +20,12 @@
 </div>
 :man_technologist: About Me :
 
-I am a IOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I started learning development in 2022.
 
 - :seedling: I am currently working as a Industrial automation engineer.
 
 - :zap: I love going camping in nature.
+:hammer_and_wrench: Language : <div> <img src="https://githubusercontent.com" title="Java" alt="Java" width="150" height="150"/>&nbsp; </div>
 
-:hammer_and_wrench: Language :
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Java" alt="Java" width="150" height="150"/>&nbsp;
-</div>
