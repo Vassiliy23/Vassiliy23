@@ -24,11 +24,11 @@ I am a IOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :telescope: I started learning development in 2022.
 
-- :seedling: I am currently working as a Service Engineer.
+- :seedling: I am currently working as a Industrial automation engineer.
 
-- :zap: Sometimes, I make leather goods, it's my hobby..
+- :zap: I love going camping in nature.
 
 :hammer_and_wrench: Language :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="150" height="150"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Java" alt="Java" width="150" height="150"/>&nbsp;
 </div>
